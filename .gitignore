@@ -1,0 +1,16 @@
+# Large video files not currently used on website
+images/pi_VLA.mp4
+images/Fixed_Wing.mp4
+images/VLA_finetune.mp4
+images/Drone_Navigation.mp4
+images/VLM_manilupation_open_cabinet.mp4
+images/SLAM.mp4
+images/VLM_manilupation_erase_whiteboard.mp4
+images/Drone_control.mp4
+images/Screen\ Recording\ 2025-08-19\ at\ 09.38.56.mp4
+
+# System files
+.DS_Store
+**/.DS_Store
+
+images/Autonomous_Car_racing.mov
